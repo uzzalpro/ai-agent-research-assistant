@@ -1,4 +1,5 @@
 venv/
 migrations/
+.venv
 .env
 */_pycache__
