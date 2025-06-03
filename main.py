@@ -24,7 +24,7 @@ API_KEY = os.getenv('GEMINI_API_KEY')
 # AIzaSyCKrvt-az5HanGNuvf8PPUVqvJnxsx2A8s
 # from google import genai
 
-# client = genai.Client(api_key="AIzaSyB5QMmKDfccbS1RhQwMa2DpkSvmv9PcRzA")
+# client = genai.Client(api_key="")
 
 # response = client.models.generate_content(
 #     model="gemini-2.0-flash", contents="What is the meaning of life?"
